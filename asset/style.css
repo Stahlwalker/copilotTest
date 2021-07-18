@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(176, 85%, 45%);
+}
+
+/* footer {
+    background-color: hsl(180, 6%, 3%);
+    text-align: center;
+    color: white;
+    padding: 20px;
+} */
+
+main > .container {
+    padding-top: 60px;
+}
